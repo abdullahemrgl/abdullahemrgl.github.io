@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(182, 196, 181);
+}
+
+a {
+    color: rgb(0, 146, 58);
+    font-size: x-large;
+    font-weight: bold;  
+}
+
+hr {
+    color: rgb(255, 143, 31);
+}
